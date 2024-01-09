@@ -1,0 +1,20 @@
+.buton1{
+    height: 35px;
+    width: 100px;
+    background-color: yellow;
+ border: 1px solid red;
+margin-right: 50px;
+font-size: 20px;
+
+}
+.alphabet{
+    margin-top: 40px;
+height: 35px;
+margin-right: 10px;
+margin-bottom: 10px;
+
+}
+.numbering{
+    margin-right: 10px;
+    height: 35px;
+}

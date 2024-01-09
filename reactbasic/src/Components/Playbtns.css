@@ -1,0 +1,16 @@
+
+button{
+    margin-top: 10px;
+    margin-left: 5px;
+height: 30px;
+width: 100px;
+background-color: yellow;
+color: black;
+border: 1px solid red;
+font-size: 15px;
+
+}
+button:hover{
+    background-color: rgb(173, 222, 41);
+
+}
