@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(146, 212, 212);
+}
+.container{
+    background-color: blue;
+    width: 650px;
+    margin: 100px auto;
+ padding-bottom: 30px;
+}
+.header{
+    text-align: center;
+color: white;
+font-size: 26px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+input[type= text]{
+height: 40px;
+width: 70%;
+margin-left: 40px;
+margin-bottom: 40px;
+margin-top: 20px;
+border-radius: 5px;
+padding-top: 5px;
+border: 1px solid red;
+}
+::placeholder{
+    color: red;
+    font-size: 20px;
+padding-left: 10px;
+
+}
+.buton{
+height: 47.6px;
+width: 130px;
+border: 1px solid green;
+font-size: 20px;
+color: green;
+border-radius: 5px;
+background-color: aquamarine;
+
+}
+.list-heading{
+    color: yellow;
+    font-size: 30px;
+    margin-left: 40px;
+    font-weight: 600;
+    margin-top: -20px;
+    /* padding-bottom: 30px; */
+}
+.todolist-heading{
+    color: rgb(250, 7, 254);
+    font-size: 30px;
+    margin-left: 40px;
+    font-weight: 600;
+    margin-top: -20px;
+}
+.button{
+    height: 30px;
+    width: 80px;
+    border: 1px solid green;
+font-size: 14px;
+color: green;
+border-radius: 5px;
+background-color: aquamarine;
+padding-top: 5px;
+text-align: center;
+}
+.last{
+    margin-left: 40%;
+}
